@@ -1,5 +1,5 @@
 /**
- * @authors - Matthew DeGuzman
+ * @author - Matthew DeGuzman
  * 
  * Mastermind.java
  * 
